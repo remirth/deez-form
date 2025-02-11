@@ -30,7 +30,7 @@
     "homepage": "https://github.com/exsjabe/deez-form#readme",
     "devDependencies": {
         "dts-buddy": "^0.2.5",
-        "esbuild": "^0.19.4",
+        "esbuild": "^0.25.0",
         "prettier": "^3.0.3",
         "tiny-glob": "^0.2.9",
         "typescript": "~5.0.4"
